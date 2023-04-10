@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "621075193625",
+    "project_id": "project1-eef5f",
+    "storage_bucket": "project1-eef5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621075193625:android:7a33c907e3a9ccc43faf88",
+        "android_client_info": {
+          "package_name": "com.example.fluter_bloc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621075193625-n8r072g10od142msk3p7cqb2q9l26otb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYGaNKWc9nmeCTX5n1tNshx2fWntG2ViI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621075193625-n8r072g10od142msk3p7cqb2q9l26otb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621075193625-6lbpbkqp4liud3a093l30gdnffimu26r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fluterBlocApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
